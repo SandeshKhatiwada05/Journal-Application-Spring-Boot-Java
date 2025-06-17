@@ -64,7 +64,7 @@ A backend-only journal management system built with Spring Boot. Features user r
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/journal-application.git
+   git clone https://github.com/SandeshKhatiwada05/Journal-Application-Spring-Boot-Java.git
    ```
 2. Configure `application.properties` for your MySQL DB
 3. Run the app:
