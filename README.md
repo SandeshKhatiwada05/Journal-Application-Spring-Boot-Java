@@ -28,8 +28,8 @@ A backend-only journal management system built with Spring Boot. Features user r
 │   ├── PublicController.java
 │   └── UserController.java
 ├── 📁 entity/                  # Entity classes
-│   ├── Journal.java
-│   └── User.java
+│   ├── JournalEntity.java
+│   └── UserEntity.java
 ├── 📁 repository/              # Spring Data JPA repositories
 │   ├── JournalRepository.java
 │   └── UserRepository.java
